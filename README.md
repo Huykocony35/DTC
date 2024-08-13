@@ -2,7 +2,7 @@
 
 ## Download using git:
 
-`git clone https://github.com/fishmakeweb/date-time-checker.git`
+`git clone https://github.com/Huykocony35/DTC.git`
 
 ## To run this project using npm (make sure your device already install NodeJs runtime environment)
 
